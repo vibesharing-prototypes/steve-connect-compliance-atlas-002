@@ -1,2 +1,14 @@
-# steve-connect-compliance-atlas-002
-Prototype: Connect-Compliance-Atlas-002 - Deployed via VibeSharing
+# Connect-Compliance-Atlas-002
+
+Deployed via [VibeSharing](https://vibesharing.app).
+
+## Local Development
+
+```bash
+npm install
+npm run dev
+```
+
+## Deploy
+
+Push to main branch - changes go live automatically.
