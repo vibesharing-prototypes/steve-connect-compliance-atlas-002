@@ -1,8 +1,0 @@
-@import '@diligentcorp/atlas-react-bundle/styles';
-@import '@diligentcorp/atlas-react-bundle/global-nav.css';
-
-html,
-body,
-#root {
-  height: 100%;
-}
